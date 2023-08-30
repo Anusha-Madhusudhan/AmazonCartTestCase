@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-29T22:41:55 EDT" name="Default suite" finished-at="2023-08-29T22:43:12 EDT" duration-ms="76816">
+    <groups>
+    </groups>
+    <test started-at="2023-08-29T22:41:55 EDT" name="Default test" finished-at="2023-08-29T22:43:12 EDT" duration-ms="76816">
+      <class name="testCases.AmazonCartTestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.AmazonCartTestCase@3b69e7d1]" started-at="2023-08-29T22:41:55 EDT" name="setUp" finished-at="2023-08-29T22:41:59 EDT" duration-ms="4030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="amazonCartTest()[pri:0, instance:testCases.AmazonCartTestCase@3b69e7d1]" started-at="2023-08-29T22:41:59 EDT" name="amazonCartTest" finished-at="2023-08-29T22:43:11 EDT" duration-ms="72493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonCartTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testCases.AmazonCartTestCase@3b69e7d1]" started-at="2023-08-29T22:43:11 EDT" name="close" finished-at="2023-08-29T22:43:12 EDT" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testCases.AmazonCartTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
